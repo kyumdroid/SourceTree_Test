@@ -14,6 +14,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         //Button 추가 해야함.
+        //추가 할꺼야??
     }
 
     @Override
